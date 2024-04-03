@@ -5,10 +5,10 @@ The steam reviews dataset was obtained from Kaggle with the link provided below:
 https://www.kaggle.com/datasets/najzeko/steam-reviews-2021/data
 
 <h2>Project Summary</h2>
-- Game development is a time-sensitive process, and developers do not have time to read reviews.
-- In the fog of development, it is often incredibly difficult to be self-aware of the shortcomings of the video game.
-- This leads to misguided development decisions as game developers are not adequately considering player feedback.
-- Our project aims to extract important insights from video game reviews efficiently, so that developers are more informed when allocating studio resources to fix/improve their game.
+<li>Game development is a time-sensitive process, and developers do not have time to read reviews.</li>
+<li>In the fog of development, it is often incredibly difficult to be self-aware of the shortcomings of the video game.</li>
+<li>This leads to misguided development decisions as game developers are not adequately considering player feedback.</li>
+<li>Our project aims to extract important insights from video game reviews efficiently, so that developers are more informed when allocating studio resources to fix/improve their game.</li>
 
 <h3>Sentiment Analysis</h3>
 Topic modelling was first performed to identify the topics talked by the reviewers. Topic modelling was performed using:-
