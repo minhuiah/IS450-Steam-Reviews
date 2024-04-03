@@ -12,6 +12,7 @@ https://www.kaggle.com/datasets/najzeko/steam-reviews-2021/data
 
 <h3>Sentiment Analysis</h3>
 Topic modelling was first performed to identify the topics talked by the reviewers. Topic modelling was performed using:-
+
 1) Latent Dirichlet Allocation (LDA)
 2) BERTopic
 3) Non-Negative Matrix Factorization (NMF)
